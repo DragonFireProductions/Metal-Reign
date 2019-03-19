@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerControllerV2 : MonoBehaviour
+public class TempPlayerController : MonoBehaviour
 {
     // buy menu flags
     static bool buy_turret_0 = false;
